@@ -1,8 +1,6 @@
 <html lang="en">
 <head>
   <meta name="generator" content="Bluefish 2.2.7" >
-  <meta name="generator" content="Bluefish 2.2.7" >
-  <meta name="generator" content="Bluefish 2.2.7" >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content=
@@ -26,6 +24,8 @@
   <div class="container">
     <?php include_once("navigationHeader.html");?>
   </div>
+  
+  <!-- container one -->
 
   <div class="container">
     <div class="row">
@@ -70,6 +70,95 @@
             <p>and bring to life internal business concepts as well
             as give entrepreneurs the resources and mentorship to
             develop their ideas.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- container two -->
+
+    <div class="container">
+      <div class="row">
+        <!-- Buyerlink and iMotors thumbnails -->
+
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/buyerlink-intranet.jpg"
+            alt="BuyerLink">
+
+            <div class="caption">
+              <h3>BuyerLink</h3>
+              <p>BuyerLink is the leading online marketing platform for the acquisition of locally-targeted and category-specific consumers on a Enhanced ClicksTM or Qualified Leads...</p>
+            </div>
+          </div>
+
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/imotors-intranet.jpg"
+            alt="iMotors">
+
+            <div class="caption">
+              <h3>iMotors</h3>
+
+              <p>...</p>
+            </div>
+          </div>
+        </div>
+        <!-- RealtyNow and MerchantCircle thumbnails -->
+
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/rn-intranet.jpg"
+            alt="RealtyNow">
+
+            <div class="caption">
+              <h3>RealtyNow</h3>
+
+              <p>...</p>
+            </div>
+          </div>
+
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/mc-intranet.jpg"
+            alt="MerchantCircle">
+
+            <div class="caption">
+              <h3>Merchant Circle</h3>
+
+              <p>We are a team of people focused on one thing - connecting busy people with the best local merchants...</p>
+            </div>
+          </div>
+        </div>
+        <!-- QualitySmith thumbnails -->
+
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/qualitysmith-intranet.jpg"
+            alt="QualitySmith">
+
+            <div class="caption">
+              <h3>QualitySmith</h3>
+
+              <p>...</p>
+            </div>
+          </div>
+        </div>
+        <!-- Connect With Life thumbnails -->
+
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src=
+            "http://intranet.oneplanetops.com/images/cwl-intranet.jpg"
+            alt="ConnectWithLife">
+
+            <div class="caption">
+              <h3>ConnectWithLife</h3>
+
+              <p>...</p>
+            </div>
           </div>
         </div>
       </div>
