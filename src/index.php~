@@ -81,6 +81,7 @@
         <!-- Buyerlink and iMotors thumbnails -->
 
         <div class="col-sm-6 col-md-3">
+        <a href="http://www.buyerlink.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src=
             "http://intranet.oneplanetops.com/images/buyerlink-intranet.jpg"
@@ -91,78 +92,71 @@
               <p>BuyerLink is the leading online marketing platform for the acquisition of locally-targeted and category-specific consumers on a Enhanced ClicksTM or Qualified Leads...</p>
             </div>
           </div>
-
+        </a>
+        <a href="http://www.imotors.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src=
             "http://intranet.oneplanetops.com/images/imotors-intranet.jpg"
             alt="iMotors">
-
             <div class="caption">
               <h3>iMotors</h3>
-
               <p>...</p>
             </div>
           </div>
+        </a>
         </div>
         <!-- RealtyNow and MerchantCircle thumbnails -->
-
         <div class="col-sm-6 col-md-3">
+        <a href="http://www.realtynow.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/images/rn-intranet.jpg"
-            alt="RealtyNow">
-
+            <img src= "http://intranet.oneplanetops.com/images/rn-intranet.jpg" alt="RealtyNow">
             <div class="caption">
               <h3>RealtyNow</h3>
-
               <p>...</p>
             </div>
           </div>
+        </a>
 
+        <a href="http://www.merchantcircle.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/images/mc-intranet.jpg"
-            alt="MerchantCircle">
-
+            <img src="http://intranet.oneplanetops.com/images/mc-intranet.jpg" alt="MerchantCircle">
             <div class="caption">
               <h3>Merchant Circle</h3>
-
               <p>We are a team of people focused on one thing - connecting busy people with the best local merchants...</p>
             </div>
           </div>
+        </a>
         </div>
         <!-- QualitySmith thumbnails -->
 
         <div class="col-sm-6 col-md-3">
+        <a href="http://www.qualitysmith.com" style="text-decoration:none" target="_blank"> 
           <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/images/qualitysmith-intranet.jpg"
-            alt="QualitySmith">
-
+            <img src="http://intranet.oneplanetops.com/images/qualitysmith-intranet.jpg" alt="QualitySmith">
             <div class="caption">
               <h3>QualitySmith</h3>
-
               <p>...</p>
             </div>
           </div>
+        </a>
         </div>
         <!-- Connect With Life thumbnails -->
 
         <div class="col-sm-6 col-md-3">
+        <a href="http://www.connectwithlife.com" style="text-decoration:none" target="_blank">          
           <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/images/cwl-intranet.jpg"
-            alt="ConnectWithLife">
-
+            <img src= "http://intranet.oneplanetops.com/images/cwl-intranet.jpg" alt="ConnectWithLife">
             <div class="caption">
               <h3>ConnectWithLife</h3>
-
               <p>...</p>
             </div>
           </div>
+        </a>
         </div>
+
       </div>
     </div>
+    
   </div>
 </body>
 </html>
