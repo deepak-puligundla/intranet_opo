@@ -10,8 +10,7 @@
 
   <title>One Planet Ops - Intranet</title>
   <!-- Bootstrap Core CSS -->
-  <link href="/OPOIntranet/css/bootstrap.css" rel="stylesheet"
-  type="text/css">
+  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap.css" rel="stylesheet" type="text/css">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -83,7 +82,7 @@
         <a href="http://www.buyerlink.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src=
-            "http://intranet.oneplanetops.com/images/buyerlink-intranet.jpg"
+            "http://intranet.oneplanetops.com/intranet_opo/images/buyerlink-intranet.jpg"
             alt="BuyerLink">
 
             <div class="caption">
@@ -95,7 +94,7 @@
         <a href="http://www.imotors.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src=
-            "http://intranet.oneplanetops.com/images/imotors-intranet.jpg"
+            "http://intranet.oneplanetops.com/intranet_opo/images/imotors-intranet.jpg"
             alt="iMotors">
             <div class="caption">
               <h3>iMotors</h3>
@@ -108,7 +107,7 @@
         <div class="col-sm-6 col-md-3">
         <a href="http://www.realtynow.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
-            <img src= "http://intranet.oneplanetops.com/images/rn-intranet.jpg" alt="RealtyNow">
+            <img src= "http://intranet.oneplanetops.com/intranet_opo/images/rn-intranet.jpg" alt="RealtyNow">
             <div class="caption">
               <h3>RealtyNow</h3>
               <p>...</p>
@@ -118,7 +117,7 @@
 
         <a href="http://www.merchantcircle.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
-            <img src="http://intranet.oneplanetops.com/images/mc-intranet.jpg" alt="MerchantCircle">
+            <img src="http://intranet.oneplanetops.com/intranet_opo/images/mc-intranet.jpg" alt="MerchantCircle">
             <div class="caption">
               <h3>Merchant Circle</h3>
               <p>We are a team of people focused on one thing - connecting busy people with the best local merchants...</p>
@@ -131,7 +130,7 @@
         <div class="col-sm-6 col-md-3">
         <a href="http://www.qualitysmith.com" style="text-decoration:none" target="_blank"> 
           <div class="thumbnail">
-            <img src="http://intranet.oneplanetops.com/images/qualitysmith-intranet.jpg" alt="QualitySmith">
+            <img src="http://intranet.oneplanetops.com/intranet_opo/images/qualitysmith-intranet.jpg" alt="QualitySmith">
             <div class="caption">
               <h3>QualitySmith</h3>
               <p>...</p>
@@ -144,7 +143,7 @@
         <div class="col-sm-6 col-md-3">
         <a href="http://www.connectwithlife.com" style="text-decoration:none" target="_blank">          
           <div class="thumbnail">
-            <img src= "http://intranet.oneplanetops.com/images/cwl-intranet.jpg" alt="ConnectWithLife">
+            <img src= "http://intranet.oneplanetops.com/intranet_opo/images/cwl-intranet.jpg" alt="ConnectWithLife">
             <div class="caption">
               <h3>ConnectWithLife</h3>
               <p>...</p>
