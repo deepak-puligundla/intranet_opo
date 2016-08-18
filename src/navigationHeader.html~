@@ -12,15 +12,12 @@
   <title>One Planet Ops - Intranet - Navigation header</title>
   
   <!-- Bootstrap Core CSS -->
+  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" type="text/css">
+  
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
   
-      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
-
-      
+     
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -53,10 +50,18 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Organization Chart</a></li>
-            <li><a href="#">Ukrain PTO</a></li>
+            <li><a href="#">PTO days</a></li>
           </ul>
         </li>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+
 </body>
+
+</html>
