@@ -28,9 +28,20 @@
   <div class="container">
     <?php include_once("navigationHeader.html");?>
   </div><!-- container one -->
-
-  <div class="container">
+  
+      <div class="row">
+      <div class="col-lg-12">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Organization Chart</h3>
+          </div>
+        <div class="panel-body">
+           <img width="100%" height="100%" src="/intranet_opo/images/opo_department_org_chart.png" alt="">
+        </div>
+       </div>
+      </div>
   </div>
+
 
 </body>
 </html>
