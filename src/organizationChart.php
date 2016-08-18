@@ -36,7 +36,7 @@
             <h3 class="panel-title">Organization Chart</h3>
           </div>
         <div class="panel-body">
-           <img width="100%" height="100%" src="/intranet_opo/images/opo_department_org_chart.png" alt="">
+           <img width="100%" height="100%" src="http://intranet.oneplanetops.com/intranet_opo/images/opo_department_org_chart.png" alt="">
         </div>
        </div>
       </div>

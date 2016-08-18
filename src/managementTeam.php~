@@ -88,21 +88,37 @@
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/payamZamani.jpg" alt="PayamZamani">
+          <div class="caption">
+	        <h4>Payam Zamani</h4>
+   	     <h5>Founder and Chairman</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/sunnyChang.jpg" alt="sunnyChang">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/tomKelley.jpg" alt="TomKelley">
+          <div class="caption">
+	        <h4>Tom Kelley</h4>
+   	     <h5>VP, MarketPlace</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/ruddLippincott.jpg" alt="RuddLippincott">
+          <div class="caption">
+	        <h4>Rudd Lippincott</h4>
+   	     <h5>VP, MarketPlace</h5>
+      	 </div>
         </div>      
       </div>
     </div>
@@ -111,21 +127,37 @@
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/johnLambertus.jpg" alt="JohnLambertus">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/armitaRostamian.jpg" alt="ArmitaRostamian">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/davidRamirez.jpg" alt="DavidRamirez">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/gilbertManorek.jpg" alt="GilbertManorek">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
     </div>
@@ -134,11 +166,19 @@
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/mandeepSingh.jpg" alt="MandeepSingh">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/ethanLieber.jpg" alt="EthanLieber">
+          <div class="caption">
+	        <h4>Sunny Chang</h4>
+   	     <h5>VP, Marketing</h5>
+      	 </div>
         </div>      
       </div>
     </div>
