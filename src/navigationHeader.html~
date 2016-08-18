@@ -50,7 +50,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#">Organization Chart</a></li>
-            <li><a href="#">PTO days</a></li>
+            <li><a href="/intranet_opo/src/PTO_Days.php">PTO days</a></li>
           </ul>
         </li>
     </div><!-- /.navbar-collapse -->
