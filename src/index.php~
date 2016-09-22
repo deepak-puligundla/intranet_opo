@@ -10,8 +10,6 @@
 
   <title>One Planet Ops - Intranet</title>
   <!-- Bootstrap Core CSS -->
-  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" type="text/css">
-
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">  
   
