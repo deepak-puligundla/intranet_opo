@@ -128,8 +128,8 @@
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/johnLambertus.jpg" alt="JohnLambertus">
           <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
+	        <h4>John Lambertus</h4>
+   	     <h5>VP, General Manager</h5>
       	 </div>
         </div>      
       </div>
@@ -137,8 +137,8 @@
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/armitaRostamian.jpg" alt="ArmitaRostamian">
           <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
+	        <h4>Armita Rostamian</h4>
+   	     <h5>VP, Finanace & Controller</h5>
       	 </div>
         </div>      
       </div>
@@ -146,8 +146,8 @@
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/davidRamirez.jpg" alt="DavidRamirez">
           <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
+	        <h4>David Ramirez</h4>
+   	     <h5>VP, Strategic Planning & Legal</h5>
       	 </div>
         </div>      
       </div>
@@ -155,8 +155,8 @@
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/gilbertManorek.jpg" alt="GilbertManorek">
           <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
+	        <h4>Gilbert Manorek</h4>
+   	     <h5>Sr. Director, Engineering</h5>
       	 </div>
         </div>      
       </div>
@@ -167,20 +167,12 @@
         <div class="thumbnail">
           <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/mandeepSingh.jpg" alt="MandeepSingh">
           <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
+	        <h4>Mandeep Singh</h4>
+   	     <h5>Sr. Director, Technology Operations</h5>
       	 </div>
         </div>      
       </div>
-      <div class="col-xs-6 col-md-3">
-        <div class="thumbnail">
-          <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/ethanLieber.jpg" alt="EthanLieber">
-          <div class="caption">
-	        <h4>Sunny Chang</h4>
-   	     <h5>VP, Marketing</h5>
-      	 </div>
-        </div>      
-      </div>
+
     </div>
 
   </div>

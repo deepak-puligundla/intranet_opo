@@ -172,15 +172,7 @@
       	 </div>
         </div>      
       </div>
-      <div class="col-xs-6 col-md-3">
-        <div class="thumbnail">
-          <img src="http://intranet.oneplanetops.com/intranet_opo/images/VP-HEADSHOTS/VP-HEADSHOTS/ethanLieber.jpg" alt="EthanLieber">
-          <div class="caption">
-	        <h4>Ethan Lieber</h4>
-   	     <h5>Sr. Director, Product</h5>
-      	 </div>
-        </div>      
-      </div>
+
     </div>
 
   </div>
