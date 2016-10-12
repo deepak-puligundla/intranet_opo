@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-  <meta name="generator" content="Bluefish 2.2.7" >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content=
@@ -28,7 +27,7 @@
   <div class="container">
     <?php include_once("navigationHeader.html");?>
   </div><!-- container one -->
-  
+
       <div class="row">
       <div class="col-lg-12">
         <div class="panel panel-default">

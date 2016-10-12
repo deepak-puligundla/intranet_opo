@@ -1,18 +1,16 @@
 <html lang="en">
 <head>
-  <meta name="generator" content="Bluefish 2.2.7" >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Deepak p" >
 
   <title>One Planet Ops - Intranet</title>
   <!-- Bootstrap Core CSS -->
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">  
-  
+  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,14 +24,14 @@
   <div class="container">
     <?php include_once("navigationHeader.html");?>
   </div>
-  
+
     <div class="container">
   <div class="page-header">
 
   <h1>Adding OneplanetVPN <small>(Windows 10)</small></h1>
 	</div>
-	
-	
+
+
     <h3 class="panel-title">Step 1: From your desktop screen, click on the <b>Network</b> icon which can be found at the bottom right hand corner of your screen and click on <b>
     Network Settings</b></h3>
     <img class="img-fluid" src="http://intranet.oneplanetops.com/intranet_opo/images/VPN/AddVPNStep1.png" alt="step1" style="margin:15px 15px 15px 15px"><br>
@@ -64,7 +62,7 @@
  	 <br>
     <h5>Click ok</h5>
     <img src="http://intranet.oneplanetops.com/intranet_opo/images/VPN/AddVPNStep6.PNG" alt="step1" style="margin:15px 15px 15px 15px">
-    
+
     <div class="page-header">
 	   <h1>Connecting to OneplanetVPN<small>(Windows 10)</small></h1>
 	 </div>
@@ -82,7 +80,7 @@
     <img class="img-fluid" src="http://intranet.oneplanetops.com/intranet_opo/images/VPN/connectVPNStep4.PNG" alt="step3" style="margin:15px 15px 15px 15px"><br>
 
 </div>
-  
-  
+
+
 </body>
 </html>

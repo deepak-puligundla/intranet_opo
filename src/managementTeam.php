@@ -1,10 +1,8 @@
 <html lang="en">
 <head>
-  <meta name="generator" content="Bluefish 2.2.7" >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Deepak p" >
 
@@ -12,7 +10,7 @@
   <!-- Bootstrap Core CSS -->
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
-  
+
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -81,8 +79,8 @@
       </div>
     </div>
   </div>
-  
-  
+
+
   <div class="container">
     <div class="row">
       <div class="col-xs-6 col-md-3">
@@ -92,7 +90,7 @@
 	        <h4>Payam Zamani</h4>
    	     <h5>Founder and Chairman</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -101,7 +99,7 @@
 	        <h4>Sunny Chang</h4>
    	     <h5>VP, Marketing</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -110,7 +108,7 @@
 	        <h4>Tom Kelley</h4>
    	     <h5>VP, MarketPlace</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -119,7 +117,7 @@
 	        <h4>Rudd Lippincott</h4>
    	     <h5>VP, MarketPlace</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
     </div>
 
@@ -131,7 +129,7 @@
 	        <h4>John Lambertus</h4>
    	     <h5>VP, General Manager</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -140,7 +138,7 @@
 	        <h4>Armita Rostamian</h4>
    	     <h5>VP, Finanace & Controller</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -149,7 +147,7 @@
 	        <h4>David Ramirez</h4>
    	     <h5>VP, Strategic Planning & Legal</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
       <div class="col-xs-6 col-md-3">
         <div class="thumbnail">
@@ -158,7 +156,7 @@
 	        <h4>Gilbert Manorek</h4>
    	     <h5>Sr. Director, Engineering</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
     </div>
 
@@ -170,13 +168,13 @@
 	        <h4>Mandeep Singh</h4>
    	     <h5>Sr. Director, Technology Operations</h5>
       	 </div>
-        </div>      
+        </div>
       </div>
 
     </div>
 
   </div>
-    
+
 
 </body>
 </html>

@@ -1,18 +1,15 @@
 <html lang="en">
 <head>
-  <meta name="generator" content="Bluefish 2.2.7" >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
-  <meta name="author" content="Deepak p" >
+  <meta name="author" content="Deepak Puligundla" >
 
   <title>One Planet Ops - Intranet</title>
   <!-- Bootstrap Core CSS -->
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">  
-  
+  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,7 +23,7 @@
   <div class="container">
     <?php include_once("navigationHeader.html");?>
   </div>
-  
+
   <!-- container one -->
 
   <div class="container">
@@ -131,7 +128,7 @@
         <!-- QualitySmith thumbnails -->
 
         <div class="col-sm-6 col-md-3">
-        <a href="http://www.qualitysmith.com" style="text-decoration:none" target="_blank"> 
+        <a href="http://www.qualitysmith.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src="http://intranet.oneplanetops.com/intranet_opo/images/qualitysmith-intranet.jpg" alt="QualitySmith">
             <div class="caption">
@@ -144,7 +141,7 @@
         <!-- Connect With Life thumbnails -->
 
         <div class="col-sm-6 col-md-3">
-        <a href="http://www.connectwithlife.com" style="text-decoration:none" target="_blank">          
+        <a href="http://www.connectwithlife.com" style="text-decoration:none" target="_blank">
           <div class="thumbnail">
             <img src= "http://intranet.oneplanetops.com/intranet_opo/images/cwl-intranet.jpg" alt="ConnectWithLife">
             <div class="caption">
@@ -156,8 +153,8 @@
         </div>
 
       </div>
-    
+
   </div>
-  
+
 </body>
 </html>
