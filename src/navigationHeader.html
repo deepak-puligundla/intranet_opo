@@ -43,14 +43,14 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="http://intranet.oneplanetops.com/intranet_opo/src/index.php">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="http://intranet.oneplanetops.com/intranet_opo/src/managementTeam.php">Team</a></li>
+        <li <?php if ($pageId=="index") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/index.php">Home <span class="sr-only">(current)</span></a></li>
+        <li <?php if ($pageId=="management team") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/managementTeam.php">Team</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="http://intranet.oneplanetops.com/intranet_opo/src/organizationChart.php">Organization Chart</a></li>
-            <li><a href="http://intranet.oneplanetops.com/intranet_opo/src/PTO_Days.php">PTO days</a></li>
-            <li><a href="/intranet_opo/src/windowsVPN.php">VPN</a></li>
+            <li <?php if ($pageId=="organization chart") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/organizationChart.php">Organization Chart</a></li>
+            <li <?php if ($pageId=="pto days") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/PTO_Days.php">PTO days</a></li>
+            <li <?php if ($pageId=="vpn") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/windowsVPN.php">VPN</a></li>
           </ul>
         </li>
     </div><!-- /.navbar-collapse -->
@@ -61,17 +61,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
-    <script>
-    $(document).ready(function () {
-        $('.dropdown-toggle').dropdown();
-
-	     $(".nav a").on("click", function(){
-          $(".nav").find(".active").removeClass("active");
-          $(this).parent().addClass("active");
-        });
-    });
-    </script>
-
 </body>
 
 </html>
