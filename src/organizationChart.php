@@ -34,35 +34,46 @@
         <!-- menu -->
         <div id="MainMenu">
           <div class="list-group panel">
-            <a href="#" class="list-group-item list-group-item-success" data-parent="#MainMenu">BlueHelix</a>
-            <a href="#" class="list-group-item list-group-item-success" data-parent="#MainMenu">Communication</a>
-            <a href="#" class="list-group-item list-group-item-success" data-parent="#MainMenu">Engineering</a>
-            <a href="#" class="list-group-item list-group-item-success" data-parent="#MainMenu">Finance & Controller</a>
-            <a href="#" class="list-group-item list-group-item-success" data-parent="#MainMenu">Technology</a>
-            <a href="#Marketing" class="list-group-item list-group-item-success" data-toggle="collapse" role="button" data-parent="#MainMenu">Marketing<i class="fa fa-caret-down"></i></a>
+            <a href="./team/blueHelixTeam.php" class="list-group-item list-group-item-success" >BlueHelix</a>
+            <a href="./team/communication.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Communication</a>
+            <a href="#Engineering"  class="list-group-item list-group-item-success" data-toggle="collapse" role="button" >Engineering<span class="caret"></span></a>
+            <div class="collapse" id="Engineering">
+              <a href="./team/engineering/mcTeam.php" class="list-group-item">MC</a>
+              <a href="./team/engineering/hgTeam.php" class="list-group-item">HG</a>
+              <a href="./team/engineering/marketplaceTeam.php" class="list-group-item">MarketPlace</a>
+              <a href="./team/engineering/dbaTeam.php" class="list-group-item">DBA</a>
+              <a href="./team/engineering/qaTeam.php" class="list-group-item">QA</a>
+              <a href="./team/engineering/mobileDevelopersTeam.php" class="list-group-item">Mobile</a>
+              <a href="./team/engineering/webDevelopersTeam.php" class="list-group-item">Web</a>
+              <a href="./team/engineering/contractorsTeam.php" class="list-group-item">Contractors</a>
+
+            </div>
+            <a href="./team/finance.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Finance & Controller</a>
+            <a href="./team/technology.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Technology</a>
+            <a href="#Marketing"  class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu" >Marketing<i class="caret"></i></a>
             <div class="collapse" id="Marketing">
-              <a href="#" class="list-group-item">SEO</a>
-              <a href="#" class="list-group-item">Autos SEM</a>
-              <a href="#" class="list-group-item">RE SEM</a>
-              <a href="#" class="list-group-item">HI SEM</a>
-              <a href="#" class="list-group-item">Optimization</a>
-              <a href="#" class="list-group-item">Analytics</a>
+              <a href="./team/marketing/seoTeam.php" class="list-group-item">SEO</a>
+              <a href="./team/marketing/autoSEMTeam.php" class="list-group-item">Autos SEM</a>
+              <a href="./team/marketing/RE-SEM-Team.php" class="list-group-item">RE SEM</a>
+              <a href="./team/marketing/HI-SEM-Team.php" class="list-group-item">HI SEM</a>
+              <a href="./team/marketing/optimization.php" class="list-group-item">Optimization</a>
+              <a href="./team/marketing/analytics.php" class="list-group-item">Analytics</a>
             </div>
-            <a href="#Marketplace" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Marketplace<i class="fa fa-caret-down"></i></a>
+            <a href="#Marketplace" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Marketplace<i class="caret"></i></a>
             <div class="collapse" id="Marketplace">
-              <a href="#" class="list-group-item">Publisher</a>
-              <a href="#" class="list-group-item">PH Retail</a>
-              <a href="#" class="list-group-item">US Retail Sales</a>
-              <a href="#" class="list-group-item">US Sales Support</a>
+              <a href="./team/marketplace/publisher.php" class="list-group-item">Publisher</a>
+              <a href="./team/marketplace/PHRetailTeam.php" class="list-group-item">PH Retail</a>
+              <a href="./team/marketplace/USRetailSales.php" class="list-group-item">US Retail Sales</a>
+              <a href="./team/marketplace/USSalesSupport.php" class="list-group-item">US Sales Support</a>
             </div>
-            <a href="#Product" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Product<i class="fa fa-caret-down"></i></a>
+            <a href="#Product" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Product<span class="caret"></span></a>
             <div class="collapse" id="Product">
-              <a href="" class="list-group-item">Product</a>
-              <a href="" class="list-group-item">Design</a>
+              <a href="./team/product/product.php" class="list-group-item">Product</a>
+              <a href="./team/product/design.php" class="list-group-item">Design</a>
             </div>
-            <a href="#SPorLegal" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Strategic Planning/Legal<i class="fa fa-caret-down"></i></a>
-            <div class="collapse" id="SPorLegal">
-              <a href="" class="list-group-item">MC</a>
+            <a href="#Legal" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Strategic Planning/Legal<i class="caret"></i></a>
+            <div class="collapse" id="Legal">
+              <a href="./team/strategicPlanningAndLegal/MCTeam.php" class="list-group-item">MC</a>
             </div>
 
           </div>
@@ -70,29 +81,9 @@
       </div>
 
       <div class="col-md-10" id="team">
-
       </div>
     </div>
 
-  </div>
-
-
-  <div class="row">
-      <div class="col-lg-12">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">Organization Chart</h3>
-          </div>
-        <div class="panel-body">
-           <img width="100%" height="100%" src="http://intranet.oneplanetops.com/intranet_opo/images/opo_department_org_chart.png" alt="">
-        </div>
-       </div>
-      </div>
-  </div>
-
-  <div id="blueHelix" class="tab-content">
-      <h2>London</h2>
-      <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
   </div>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -100,8 +91,16 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 
-
-
+<script>
+$(document).ready(function() {
+  $("#Mainmenu a").click(function(e){
+    if($(this).attr('href') != '#Engineering' && $(this).attr('href') != '#Marketing' && $(this).attr('href') != '#Marketplace' && $(this).attr('href') != '#Product' && $(this).attr('href') != '#Legal'){
+          e.preventDefault();
+          $('#team').load($(this).attr("href"));
+        }
+  });
+});
+</script>
 
 </body>
 </html>
