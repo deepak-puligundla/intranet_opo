@@ -34,46 +34,46 @@
         <!-- menu -->
         <div id="MainMenu">
           <div class="list-group panel">
-            <a href="./team/blueHelixTeam.php" class="list-group-item list-group-item-success" >BlueHelix</a>
-            <a href="./team/communication.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Communication</a>
+            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/blueHelixTeam.php" class="list-group-item list-group-item-success" >BlueHelix</a>
+            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/communication.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Communication</a>
             <a href="#Engineering"  class="list-group-item list-group-item-success" data-toggle="collapse" role="button" >Engineering<span class="caret"></span></a>
             <div class="collapse" id="Engineering">
-              <a href="./team/engineering/mcTeam.php" class="list-group-item">MC</a>
-              <a href="./team/engineering/hgTeam.php" class="list-group-item">HG</a>
-              <a href="./team/engineering/marketplaceTeam.php" class="list-group-item">MarketPlace</a>
-              <a href="./team/engineering/dbaTeam.php" class="list-group-item">DBA</a>
-              <a href="./team/engineering/qaTeam.php" class="list-group-item">QA</a>
-              <a href="./team/engineering/mobileDevelopersTeam.php" class="list-group-item">Mobile</a>
-              <a href="./team/engineering/webDevelopersTeam.php" class="list-group-item">Web</a>
-              <a href="./team/engineering/contractorsTeam.php" class="list-group-item">Contractors</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/mcTeam.php" class="list-group-item">MC</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/hgTeam.php" class="list-group-item">HG</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/marketplaceTeam.php" class="list-group-item">MarketPlace</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/dbaTeam.php" class="list-group-item">DBA</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/qaTeam.php" class="list-group-item">QA</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/mobileDevelopersTeam.php" class="list-group-item">Mobile</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/webDevelopersTeam.php" class="list-group-item">Web</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/contractorsTeam.php" class="list-group-item">Contractors</a>
 
             </div>
-            <a href="./team/finance.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Finance & Controller</a>
-            <a href="./team/technology.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Technology</a>
+            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/finance.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Finance & Controller</a>
+            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/technology.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Technology</a>
             <a href="#Marketing"  class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu" >Marketing<i class="caret"></i></a>
             <div class="collapse" id="Marketing">
-              <a href="./team/marketing/seoTeam.php" class="list-group-item">SEO</a>
-              <a href="./team/marketing/autoSEMTeam.php" class="list-group-item">Autos SEM</a>
-              <a href="./team/marketing/RE-SEM-Team.php" class="list-group-item">RE SEM</a>
-              <a href="./team/marketing/HI-SEM-Team.php" class="list-group-item">HI SEM</a>
-              <a href="./team/marketing/optimization.php" class="list-group-item">Optimization</a>
-              <a href="./team/marketing/analytics.php" class="list-group-item">Analytics</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/seoTeam.php" class="list-group-item">SEO</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/autoSEMTeam.php" class="list-group-item">Autos SEM</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/RE-SEM-Team.php" class="list-group-item">RE SEM</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/HI-SEM-Team.php" class="list-group-item">HI SEM</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/optimization.php" class="list-group-item">Optimization</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketing/analytics.php" class="list-group-item">Analytics</a>
             </div>
             <a href="#Marketplace" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Marketplace<i class="caret"></i></a>
             <div class="collapse" id="Marketplace">
-              <a href="./team/marketplace/publisher.php" class="list-group-item">Publisher</a>
-              <a href="./team/marketplace/PHRetailTeam.php" class="list-group-item">PH Retail</a>
-              <a href="./team/marketplace/USRetailSales.php" class="list-group-item">US Retail Sales</a>
-              <a href="./team/marketplace/USSalesSupport.php" class="list-group-item">US Sales Support</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketplace/publisher.php" class="list-group-item">Publisher</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketplace/PHRetailTeam.php" class="list-group-item">PH Retail</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketplace/USRetailSales.php" class="list-group-item">US Retail Sales</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/marketplace/USSalesSupport.php" class="list-group-item">US Sales Support</a>
             </div>
             <a href="#Product" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Product<span class="caret"></span></a>
             <div class="collapse" id="Product">
-              <a href="./team/product/product.php" class="list-group-item">Product</a>
-              <a href="./team/product/design.php" class="list-group-item">Design</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/product/product.php" class="list-group-item">Product</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/product/design.php" class="list-group-item">Design</a>
             </div>
             <a href="#Legal" class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Strategic Planning/Legal<i class="caret"></i></a>
             <div class="collapse" id="Legal">
-              <a href="./team/strategicPlanningAndLegal/MCTeam.php" class="list-group-item">MC</a>
+              <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/strategicPlanningAndLegal/MCTeam.php" class="list-group-item">MC</a>
             </div>
 
           </div>
