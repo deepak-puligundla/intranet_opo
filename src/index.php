@@ -87,7 +87,7 @@
             alt="BuyerLink">
 
             <div class="caption">
-              <h3>BuyerLink</h3>
+              <!-- <h3>BuyerLink</h3> -->
               <p>BuyerLink is the leading online marketing platform for the acquisition of locally-targeted and category-specific consumers on a Enhanced ClicksTM or Qualified Leads...</p>
             </div>
           </div>
@@ -98,8 +98,8 @@
             "http://intranet.oneplanetops.com/intranet_opo/images/imotors-intranet.jpg"
             alt="iMotors">
             <div class="caption">
-              <h3>iMotors</h3>
-              <p>...</p>
+              <!-- <h3>iMotors</h3> -->
+              <p>iMotors.com provides consumers with fast and easy tools for researching new cars, trucks, and SUVs. Consumers have access to...</p>
             </div>
           </div>
         </a>
@@ -110,8 +110,8 @@
           <div class="thumbnail">
             <img src= "http://intranet.oneplanetops.com/intranet_opo/images/rn-intranet.jpg" alt="RealtyNow">
             <div class="caption">
-              <h3>RealtyNow</h3>
-              <p>...</p>
+              <!-- <h3>RealtyNow</h3> -->
+              <p>RealtyNow is a customer acquisition tool for businesses seeking high quality leads or traffic to their websites. Consumers searching for products...</p>
             </div>
           </div>
         </a>
@@ -120,7 +120,7 @@
           <div class="thumbnail">
             <img src="http://intranet.oneplanetops.com/intranet_opo/images/mc-intranet.jpg" alt="MerchantCircle">
             <div class="caption">
-              <h3>Merchant Circle</h3>
+              <!-- <h3>Merchant Circle</h3> -->
               <p>We are a team of people focused on one thing - connecting busy people with the best local merchants...</p>
             </div>
           </div>
@@ -133,8 +133,8 @@
           <div class="thumbnail">
             <img src="http://intranet.oneplanetops.com/intranet_opo/images/qualitysmith-intranet.jpg" alt="QualitySmith">
             <div class="caption">
-              <h3>QualitySmith</h3>
-              <p>...</p>
+              <!-- <h3>QualitySmith</h3> -->
+              <p>QualitySmith is a customer acquisition tool for businesses seeking high quality leads or traffic to their websites. Consumers searching for products...</p>
             </div>
           </div>
         </a>
@@ -146,7 +146,7 @@
           <div class="thumbnail">
             <img src= "http://intranet.oneplanetops.com/intranet_opo/images/cwl-intranet.jpg" alt="ConnectWithLife">
             <div class="caption">
-              <h3>ConnectWithLife</h3>
+              <!-- <h3>ConnectWithLife</h3> -->
               <p>...</p>
             </div>
           </div>
