@@ -35,8 +35,8 @@
         <div id="MainMenu">
           <div class="list-group panel">
             <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/blueHelixTeam.php" class="list-group-item list-group-item-success" >BlueHelix</a>
-            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/communication.php" class="list-group-item list-group-item-success" data-parent="#MainMenu">Communication</a>
-            <a href="#Engineering"  class="list-group-item list-group-item-success" data-toggle="collapse" role="button" >Engineering<span class="caret"></span></a>
+            <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/communication.php" class="list-group-item list-group-item-success" >Communication</a>
+            <a href="#Engineering"  class="list-group-item list-group-item-success" data-toggle="collapse" data-parent="#MainMenu">Engineering<i class="caret"></i></a>
             <div class="collapse" id="Engineering">
               <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/mcTeam.php" class="list-group-item">MC</a>
               <a href="http://intranet.oneplanetops.com/intranet_opo/src/team/engineering/hgTeam.php" class="list-group-item">HG</a>
@@ -87,19 +87,17 @@
   </div>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+<!-- <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script> -->
 
 <script>
-$(document).ready(function() {
   $("#Mainmenu a").click(function(e){
     if($(this).attr('href') != '#Engineering' && $(this).attr('href') != '#Marketing' && $(this).attr('href') != '#Marketplace' && $(this).attr('href') != '#Product' && $(this).attr('href') != '#Legal'){
           e.preventDefault();
           $('#team').load($(this).attr("href"));
         }
   });
-});
 </script>
 
 </body>
