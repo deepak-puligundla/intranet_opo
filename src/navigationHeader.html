@@ -47,9 +47,14 @@
 
         <li <?php if ($pageId=="directory") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/directory.php">Directory <span class="sr-only">(current)</span></a></li>
 
-        <li <?php if ($pageId=="anouncements") echo "class=\"active\""; ?>><a href="anouncements.php">Anouncements <span class="sr-only">(current)</span></a></li>
+        <li <?php if ($pageId=="anouncements") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/anouncements.php">Anouncements <span class="sr-only">(current)</span></a></li>
 
-        <li <?php if ($pageId=="humanResources") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/hr.php">Human Resources <span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Human Resources <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li <?php if ($pageId=="eHandbook") echo "class=\"active\""; ?>><a href="http://intranet.oneplanetops.com/intranet_opo/src/eHandbook.php">Employee Handbook</a></li>
+          </ul>
+        </li>
 
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Internal IT <span class="caret"></span></a>
