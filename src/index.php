@@ -19,8 +19,9 @@
 </head>
 
 <body>
+  <div class="container">
     <?php include_once("navigationHeader.html");?>
-
+  </div>
     <div class="container">
       <h2>Community Service at Work!</h2>
       <p>

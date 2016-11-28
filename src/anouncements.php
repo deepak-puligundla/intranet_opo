@@ -19,7 +19,9 @@
 </head>
 
 <body>
+  <div class="container">
     <?php include_once("navigationHeader.html");?>
+  </div>
 
     <div class="container">
       <div class="col-sm-8">
