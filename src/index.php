@@ -10,8 +10,6 @@
   <title>One Planet Ops - Intranet</title>
   <!-- Bootstrap Core CSS -->
   <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
-
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -21,141 +19,45 @@
 </head>
 
 <body>
-  <div class="container">
     <?php include_once("navigationHeader.html");?>
-  </div>
 
-  <!-- container one -->
+    <div class="container">
+      <h2>Community Service at Work!</h2>
+      <p>
+        <b>Ween Dream:</b> They are a non-profit organization that deals solely with getting disadvantaged youth your gently used Halloween costumes.
+      </p>
+      <p>
+        If you have any gently used Halloween costumes that you or your kids might outgrow by next year, take a look at these instructions and think about sending them to 'Ween Dream!
+      </p>
+      <p>
+        Here are the instructions for donations:
+        <ol>
+          <li>Wash or dry clean (depending on the costume's care instructions) each costume before donating it to 'WEEN DREAM. We are unable to use costumes that have not been cleaned.</li>
+          <li>Only donate costumes that are in good condition. As a rule of thumb, if you would purchase the costume in its current condition from a consignment shop for your own child, then it's probably in "good" condition.</li>
+          <li>Put each costume in its own large, sealed Ziploc bag so that it will not get wet or dirty while it is waiting to be processed by our volunteers. </li>
+          <li>Write the following information on a piece of paper and slide it in the bag with the costume:</li>
+          <ul>
+            <li>Type of Costume (such as character name or general description, like "Princess");</li>
+            <li>Gender (Boy, Girl, or Unisex);</li>
+            <li>Size (Toddler/Child/Teen S, M, L, XL, or numeric size); and</li>
+            <li>Age (approximate) the costume is appropriate for.</li>
+            <li>Getting the costume to 'WEEN DREAM:</li>
+          </ul>
+          <li>Costumes may be mailed from anywhere in America to our New Orleans headquarters at: <p>
+            <b>'WEEN DREAM
+            3001 River Rd.
+            Jefferson, LA 70121 </b>
+          </p></li>
+          <li>New costumes (never worn and still in their original packaging) may be donated to 'WEEN DREAM in the same manner as described above for gently used costumes.</li>
+        </ol>
+      </p>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">We Operate</h3>
-          </div>
-
-          <div class="panel-body">
-            <p>several large businesses in the online home
-            improvement, real estate and automotive industries. We
-            focus on providing the highest quality of service to
-            our customers.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">We Fund</h3>
-          </div>
-
-          <div class="panel-body">
-            <p>seed and early stage startups that cover a broad
-            spectrum across the tech world. With every investment,
-            we intend to create that powerful combination of
-            business success and social good, of
-            Innovation+Intention.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h3 class="panel-title">We Incubate</h3>
-          </div>
-
-          <div class="panel-body">
-            <p>and bring to life internal business concepts as well
-            as give entrepreneurs the resources and mentorship to
-            develop their ideas.</p>
-          </div>
-        </div>
-      </div>
     </div>
-    <!-- container two -->
 
-      <div class="row">
-        <!-- Buyerlink and iMotors thumbnails -->
-
-        <div class="col-sm-6 col-md-3">
-        <a href="http://www.buyerlink.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/intranet_opo/images/buyerlink-intranet.jpg"
-            alt="BuyerLink">
-
-            <div class="caption">
-              <!-- <h3>BuyerLink</h3> -->
-              <p>BuyerLink is the leading online marketing platform for the acquisition of locally-targeted and category-specific consumers on a Enhanced ClicksTM or Qualified Leads...</p>
-            </div>
-          </div>
-        </a>
-        <a href="http://www.imotors.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src=
-            "http://intranet.oneplanetops.com/intranet_opo/images/imotors-intranet.jpg"
-            alt="iMotors">
-            <div class="caption">
-              <!-- <h3>iMotors</h3> -->
-              <p>iMotors.com provides consumers with fast and easy tools for researching new cars, trucks, and SUVs. Consumers have access to...</p>
-            </div>
-          </div>
-        </a>
-        </div>
-        <!-- RealtyNow and MerchantCircle thumbnails -->
-        <div class="col-sm-6 col-md-3">
-        <a href="http://www.realtynow.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src= "http://intranet.oneplanetops.com/intranet_opo/images/rn-intranet.jpg" alt="RealtyNow">
-            <div class="caption">
-              <!-- <h3>RealtyNow</h3> -->
-              <p>RealtyNow is a customer acquisition tool for businesses seeking high quality leads or traffic to their websites. Consumers searching for products...</p>
-            </div>
-          </div>
-        </a>
-
-        <a href="http://www.merchantcircle.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src="http://intranet.oneplanetops.com/intranet_opo/images/mc-intranet.jpg" alt="MerchantCircle">
-            <div class="caption">
-              <!-- <h3>Merchant Circle</h3> -->
-              <p>We are a team of people focused on one thing - connecting busy people with the best local merchants...</p>
-            </div>
-          </div>
-        </a>
-        </div>
-        <!-- QualitySmith thumbnails -->
-
-        <div class="col-sm-6 col-md-3">
-        <a href="http://www.qualitysmith.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src="http://intranet.oneplanetops.com/intranet_opo/images/qualitysmith-intranet.jpg" alt="QualitySmith">
-            <div class="caption">
-              <!-- <h3>QualitySmith</h3> -->
-              <p>QualitySmith is a customer acquisition tool for businesses seeking high quality leads or traffic to their websites. Consumers searching for products...</p>
-            </div>
-          </div>
-        </a>
-        </div>
-        <!-- Connect With Life thumbnails -->
-
-        <div class="col-sm-6 col-md-3">
-        <a href="http://www.connectwithlife.com" style="text-decoration:none" target="_blank">
-          <div class="thumbnail">
-            <img src= "http://intranet.oneplanetops.com/intranet_opo/images/cwl-intranet.jpg" alt="ConnectWithLife">
-            <div class="caption">
-              <!-- <h3>ConnectWithLife</h3> -->
-              <p>...</p>
-            </div>
-          </div>
-        </a>
-        </div>
-
-      </div>
-
-  </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="http://intranet.oneplanetops.com/intranet_opo/css/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 
 </body>
 </html>
