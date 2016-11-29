@@ -1,4 +1,4 @@
-<?php $pageId="index"; ?>
+<?php $pageId="calendar"; ?>
 <html lang="en">
 <head>
   <meta charset="utf-8">
