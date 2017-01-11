@@ -23,6 +23,17 @@
     <?php include_once("navigationHeader.html");?>
   </div>
 
+  <div class="container">
+    <div class="row">
+        <div class="col-md-6" id="calender-block">
+          <embed src="https://calendar.google.com/calendar/embed?src=reply-corp.com_iphp6ek7qfqtkb7f6vhhlg7ias%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no">
+        </div>
+        <div class="col-md-6" id="calender-block">
+          <embed src="https://calendar.google.com/calendar/embed?src=reply-corp.com_1mhgn2pdnkjnohpfacfvvr8ml4%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no">
+        </div>
+    </div>
+  </div>
+
 
 </body>
 </html>
